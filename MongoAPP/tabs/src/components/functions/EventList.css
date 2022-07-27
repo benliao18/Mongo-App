@@ -1,0 +1,51 @@
+.backButton {
+    margin-top: 0.8rem;
+}
+
+.btnAction {
+    height: 35px !important;
+    width:152px !important;
+    box-shadow: none !important;
+}
+
+.btnAction span{
+    font-size:13px;
+    letter-spacing: 1px;
+}
+
+.tableHead {
+    font-weight: bold;
+    font-size: 16px !important;
+    
+}
+
+.listTitle {
+    font-weight: bold;
+    font-size: 18px !important;
+    margin:7px 0px;
+}
+
+.col-Mail{
+word-break: break-all;;
+}
+
+.col-company-cn{
+    max-width: 130px;
+}
+
+.rowStyle{
+    border-top:1px solid #ccc !important;
+    border-bottom:1px solid #ccc !important;
+    font-size: 16px !important;
+    height: 50px !important;
+}
+
+.rowLastStyle{
+    border-bottom:1px solid #ccc !important;
+    font-size: 16px !important;
+    height: 50px !important;
+}
+
+.btn{
+    width: 130px !important;
+}
