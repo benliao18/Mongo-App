@@ -1,0 +1,68 @@
+.page-logingForm-padding {
+    padding: 0rem 24rem;
+}
+.logingPage {
+    max-height: 450px;
+}
+.page-content-padding {
+    padding: 2rem 2rem;
+}
+
+.Header {
+    text-align: center;
+}
+.QueryUserSegment {
+    padding: 1rem 0rem;
+}
+.EventSelect {
+    margin-top: 0.8rem;
+}
+.Bookings {
+    margin-top: 1rem;
+}
+.tableBtn{
+    color: #fff;
+    background-color: #5B5FC7;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+.bookingLink{
+    height: 30px;
+    margin-top: 12px;
+}
+
+.tableHead{
+    font-weight: bold;
+    font-size: 16px !important;
+}
+
+.rowStyle{
+    border-top:1px solid #ccc !important;
+    border-bottom:1px solid #ccc !important;
+    font-size: 16px !important;
+}
+
+.rowLastStyle{
+    border-bottom:1px solid #ccc !important;
+    font-size: 16px !important;
+}
+
+.forgotPwd{
+    height: 32px;
+    background-color: white;
+    padding: 5px 20px;
+    border-radius: 4px;
+    border: 1px solid #e1dfdd;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 3.2px 6.4px -1.2px;
+}
+
+.forgotPwd:hover{
+    border-color: #c8c6c4;
+    background-color: #e1dfdd;
+}
