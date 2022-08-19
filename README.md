@@ -36,7 +36,7 @@ List customers | POST | [https://graph.microsoft.com/beta/bookingBusinesses/{boo
 List business calendarView | POST | [https://graph.microsoft.com/beta/bookingBusinesses/{bookingsID}/calendarView](https://graph.microsoft.com/beta/bookingBusinesses/{bookingsID}/calendarView)
 
 ### Architecture
-![Architecture](https://github.com/benliao18/Mongo-App/blob/main/Wiki/images/Architecture.png)
+![Architecture](https://github.com/benliao18/Mongo-App/blob/main/wiki/images/Architecture.png)
 
 ### Add the following Permissions to TaitraAPP:
 
@@ -58,4 +58,4 @@ List business calendarView | POST | [https://graph.microsoft.com/beta/bookingBus
     * Bookings.ReadWrite.All
 
 ### Deploy
-[Deployment guide](https://github.com/benliao18/Mongo-App/blob/main/Wiki/DeploymentGuide.md)
+[Deployment guide](https://github.com/benliao18/Mongo-App/blob/main/wiki/DeploymentGuide.md)
