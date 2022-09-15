@@ -2,14 +2,20 @@
 
 Refer the following image for architecture.
 
-![Overview](images/Architecture-1.png)
+![Overview](images/Architecture.png)
 
 The **Mongo-App** has the following main components:
-* **Web API**: Create or Get Teams Online Meeting.
-* **Azure Bot**: Call to recording bot.
-* **Reaording Bot**: The Azure Cloud Services (extended support) for teams policy-based recording.(https://docs.microsoft.com/en-us/microsoftteams/teams-recording-policy)
-* **Downloader App**: The Downloader App will download recording files to local from SharePoint.
-* **Microsoft Graph API**: The app leverages Microsoft graph api's to [Create Online  Meeting](https://docs.microsoft.com/en-us/graph/api/application-post-onlinemeetings?view=graph-rest-1.0&tabs=csharp) , [Get Online Meeting](https://docs.microsoft.com/en-us/graph/api/onlinemeeting-get?view=graph-rest-1.0&tabs=http) , [Get User](https://docs.microsoft.com/en-us/graph/api/user-get?view=graph-rest-1.0&tabs=http)
+* **Buyer**
+  * Find Seller and booking Seller's timeslot.
+* **MongoApp(Admin)**
+  * Find and match Buyer or Seller.
+  * Get buyer's insight.
+  * Export buyers and sellers data for analysis.
+  * Export Sellers data for import to membership database.
+* **MongoApp(Seller)**
+  * Prepare database on buyer's requirements.
+  * Prepare joining tradeshows or events.
+  * Review activities and sign up.
 
 ---
 
