@@ -56,12 +56,10 @@ List business calendarView | POST | [https://graph.microsoft.com/beta/bookingBus
     * Bookings.ReadWrite.All
 	* Bookings.Manage.All
 	
-5. Add the following Permissions to SellerAPP:
+### Add the following Permissions to SellerAPP:
 
   * Delegated permissions
     * Bookings.Read.All
     * BookingsAppointment.ReadWrite.All
     * Bookings.ReadWrite.All
 
-### Deploy
-[Deployment guide](https://github.com/benliao18/Mongo-App/blob/main/wiki/DeploymentGuide.md)
