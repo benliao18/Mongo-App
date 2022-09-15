@@ -1,3 +1,9 @@
+# Mongo-App
+
+| [Documentation](https://github.com/benliao18/Mongo-App/blob/main/wiki) | [Architecture](https://github.com/benliao18/Mongo-App/blob/main/wiki/Architecture.md) | [Deployment guide](https://github.com/benliao18/Mongo-App/blob/main/wiki/DeploymentGuide.md)
+| ---- | ---- | ---- |
+
+
 # Introduction
 
 The Mogo APP provides buyers with meetings to book meetings through the Bookings booking page, where buyers can display buyers' appointment information and meeting links.
