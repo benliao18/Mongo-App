@@ -44,7 +44,7 @@ List business calendarView | POST | [https://graph.microsoft.com/beta/bookingBus
 ### Architecture
 ![Architecture](https://github.com/benliao18/Mongo-App/blob/main/wiki/images/Architecture.png)
 
-### Add the following Permissions to TaitraAPP:
+### Add the following Permissions to MongoAPP
 
   * Application Permissions
     * Directory.Read.All
@@ -54,9 +54,9 @@ List business calendarView | POST | [https://graph.microsoft.com/beta/bookingBus
     * Bookings.Read.All
     * BookingsAppointment.ReadWrite.All
     * Bookings.ReadWrite.All
-	* Bookings.Manage.All
+    * Bookings.Manage.All
 	
-### Add the following Permissions to SellerAPP:
+### Add the following Permissions to MongoAPP(Seller)
 
   * Delegated permissions
     * Bookings.Read.All
